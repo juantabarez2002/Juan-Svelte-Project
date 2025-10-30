@@ -8,7 +8,7 @@
 	}
 </script>
 
-<main class="flex min-h-screen items-center justify-center bg-gray-50">
+<main class="flex min-h-screen items-center justify-center bg-gray-100">
 	<!-- Card container centered on the page -->
 	<div
 		class="mx-4 w-full max-w-3xl -translate-y-8 transform rounded-xl bg-white p-8 text-gray-900 shadow-lg sm:mx-6 md:mx-0"
